@@ -1,4 +1,3 @@
-أما بالنسبة للـ README.md، ده مثال جاهز واحترافي يناسب مشروعك:
 
 # FitCore Gym Landing Page
 
